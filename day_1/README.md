@@ -16,7 +16,7 @@
 ### 04_회원가입 만들기
 
 ##### 예제 1)
-<img width="700" alt="html_04-1" src="https://github.com/ysolarh/OZ_class_backend/assets/109467066/519f0263-9730-4b40-9033-57d4390ca26d">
+<img width="420" alt="스크린샷 2023-12-19 오전 1 42 03" src="https://github.com/ysolarh/OZ_class_backend/assets/109467066/786c8243-4710-4e69-a2f9-df7a93c5a9d9">
 
 ##### 예제 2)
 <img width="700" alt="html_04-2" src="https://github.com/ysolarh/OZ_class_backend/assets/109467066/3db2518a-0d63-4a09-b798-7290306cfa51">
