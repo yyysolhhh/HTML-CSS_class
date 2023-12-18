@@ -1,0 +1,1 @@
+<img width="713" alt="스크린샷 2023-12-19 오전 1 47 49" src="https://github.com/ysolarh/OZ_class_backend/assets/109467066/aaaf571c-4461-4136-9f46-e6bbaf16386b">
