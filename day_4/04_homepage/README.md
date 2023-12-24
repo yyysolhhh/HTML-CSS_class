@@ -1,2 +1,2 @@
-![04_oz코딩 홈페이지 만들기](https://github.com/ysolarh/OZ_class_backend/assets/109467066/74bdc4bb-0e42-4de1-9aac-f2a8a056370a)
+![04_홈페이지 만들기_v2](https://github.com/ysolarh/OZ_class_backend/assets/70841430/f1f57b3d-9f57-42dd-9706-51a98562657e)
 화질은 이게 최선...
